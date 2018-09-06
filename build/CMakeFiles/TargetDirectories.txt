@@ -1,3 +1,0 @@
-F:/GitHubRepo/TestCoding/TestCoding/build/CMakeFiles/HelloWorld.dir
-F:/GitHubRepo/TestCoding/TestCoding/build/CMakeFiles/ALL_BUILD.dir
-F:/GitHubRepo/TestCoding/TestCoding/build/CMakeFiles/ZERO_CHECK.dir
